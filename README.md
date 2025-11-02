@@ -23,7 +23,7 @@ python api.py
 streamlit run app.py
 
 Output Example
-Metric	Example
-Match Score	82%
-Matched Skills	Python, Flask, NLP
-Missing Skills	AWS, Docker
+Metric           Example
+Match            Score	82%
+Matched Skills	 Python, Flask, NLP
+Missing Skills	 AWS, Docker
